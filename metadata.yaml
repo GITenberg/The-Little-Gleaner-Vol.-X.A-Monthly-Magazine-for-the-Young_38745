@@ -1,0 +1,28 @@
+_repo: The-Little-Gleaner-Vol.-X.A-Monthly-Magazine-for-the-Young_38745
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2012-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38745'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AP'
+- !lcc 'PZ'
+- !lcsh 'Christian literature for children -- Periodicals'
+title: 'The Little Gleaner, Vol. X.
+
+  A Monthly Magazine for the Young'
+url: http://www.gutenberg.org/ebooks/38745
